@@ -29,7 +29,7 @@ Then i save result to [assets/github.gif](assets/github.gif)
 <h3 align="left">:link: Entre em contato comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/davidsilvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidsilvv" height="30" width="40" /></a>
-<a href="https://instagram.com/dxwzd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dxwzd" height="30" width="40" /></a>
+<a href="https://instagram.com/dwxzd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwxzd" height="30" width="40" /></a>
 </p>
 
 <!---
