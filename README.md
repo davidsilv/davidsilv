@@ -3,7 +3,6 @@
 </p>
 
 - 🌱 Atualmente estou estudando **machine learning**
-- 👯 Eu procuro colaborar em **projetos de ciência de dados**
 - 📫 Fale comigo **davidpereirax19@gmail.com**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/davidsilvv/](https://www.linkedin.com/in/davidsilvv/)
 - ⚡ Curiosidades sobre mim **amo gatos {:cat:} e adoro assistir o pôr do sol {:sunrise_over_mountains:}**
