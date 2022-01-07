@@ -5,8 +5,7 @@
 - 🌱 Atualmente estou estudando **Data Science**
 - 📫 Fale comigo **davidpereirax19@gmail.com**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/davidsilvv/](https://www.linkedin.com/in/davidsilvv/)
-- ⚡ Curiosidades sobre mim **amo gatos** {:cat:} **e adoro assistir o pôr do sol** {:sunrise_over_mountains:}
-
+- ⚡ Curiosidades sobre mim **amo gatos, adoro assistir o pôr do sol e amo resolver problemas**
 <!--
 How to make the bio gif ?
 💜 Thanks to [matyo91](https://github.com/matyo91)
