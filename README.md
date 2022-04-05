@@ -1,11 +1,7 @@
-<p align="center">
-   <img src="https://github.com/davidsilv/davidsilv/blob/main/assets/header_github.gif" alt="oi, eu sou o David">
-</p>
-
-- 🌱 I am currently studying **Data Sciene**
+- 🌱 I am currently studying **Data Sciene** and **Machine Learning**
 - 📫 Contact me **davidpereirax19@gmail.com**
 - 📄 Learn more about me at [https://www.linkedin.com/in/davidsilvv/](https://www.linkedin.com/in/davidsilvv/)
-- ⚡ Fun facts about me **I love cats, I love watching the sunset and I love solving problems**
+- ⚡ Fun facts about me **I love cats, I love watching the sunset** and **I love solving problems**
 <!--
 How to make the bio gif ?
 💜 Thanks to [matyo91](https://github.com/matyo91)
